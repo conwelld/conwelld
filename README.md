@@ -90,6 +90,6 @@ Researching how ORM frameworks translate object-oriented models into relational 
 
 <div align="center">
 
- **Let's connect** — [LinkedIn](https://www.linkedin.com/in/dayton-conwell/) · [Email](mailto:conwelld@berea.edu) · [Resume](resume.pdf)
+ **Let's connect** — [LinkedIn](https://www.linkedin.com/in/dayton-conwell/) · [Email](mailto:conwelld@berea.edu) 
 
 </div>
