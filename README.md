@@ -12,7 +12,7 @@
 
 ### About Me
 
--  CS student at Berea College, graduating May 2027
+-  CS student at Berea College, graduating May 2028
 -  Building production software on Berea's **Student Software Development Team (SSDT)**
 -  Researching **Object-Relational Mapping** for my Computer Science capstone — how object-oriented applications translate into relational schemas, and where that translation breaks down
 -  Teaching Assistant for **Software Design & Implementation**
