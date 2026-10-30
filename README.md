@@ -26,9 +26,11 @@ I'm a CS student at Berea College (class of 2028) and I love building software t
 
 ### Featured Project: Rung
 
-<a href="https://github.com/conwelld/Rung">
-  <img src="https://github-readme-stats-conwelld.vercel.app/api/pin/?username=conwelld&repo=Rung&theme=tokyonight&hide_border=true" alt="Rung repo card" />
-</a>
+<div align="center">
+  <a href="https://github.com/conwelld/Rung">
+    <img src="https://github-readme-stats-conwelld.vercel.app/api/pin/?username=conwelld&repo=Rung&theme=tokyonight&hide_border=true" alt="Rung repo card" />
+  </a>
+</div>
 
 A Socratic mock interview tutor built around Berea's real CS coding interviews. Students get 30 minutes on a problem from their course's own question bank while an AI proctor coaches them one hint at a time. It climbs a hint ladder instead of handing over the answer. When time's up it grades the session on the department's four rubric dimensions: Communication, Problem Solving, Technical Competency and Debugging.
 
